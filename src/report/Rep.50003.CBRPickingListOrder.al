@@ -206,7 +206,7 @@ report 50003 "Picking List Order CBR"
                             column(Sales_Line__No__; "No.")
                             {
                             }
-                            column(Cross_Reference_No_; "Cross-Reference No.")
+                            column(Cross_Reference_No_; "Item Reference No.")
                             {
                             }
                             column(GTIN; Item.gtin)
